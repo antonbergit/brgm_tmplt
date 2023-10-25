@@ -1,5 +1,12 @@
 <odoo>
   <data>
+    <record model="ir.actions.act_window" id="brgm_tmplt.action_menu">
+      <field name="name">brgm_tmplt menu</field>
+      <field name="type">ir.actions.act_window</field>
+      <field name="res_model">res.config.settings</field>
+      <field name="view_mode">form</field>
+      <field name="target">inline</field>
+    </record>    
     <!-- Top menu item -->
     <menuitem name="brgm_tmplt_main_menu" id="brgm_tmplt.menu_root"/>
   </data>
