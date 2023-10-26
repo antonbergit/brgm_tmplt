@@ -8,6 +8,6 @@
       <field name="target">inline</field>
     </record>    
     <!-- Top menu item -->
-    <menuitem name="brgm_tmplt_main_menu" id="brgm_tmplt.menu_root" action="brgm_tmplt_action_menu" web_icon="brgm_tmplt,static/description/icon.png"/>
+    <menuitem name="brgm_tmplt_main_menu" id="brgm_tmplt_menu_root" action="brgm_tmplt_action_menu" web_icon="brgm_tmplt,static/description/icon.png"/>
   </data>
 </odoo>
