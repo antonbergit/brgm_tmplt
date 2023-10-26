@@ -13,7 +13,7 @@
     'auto_install': False,
     'application': False,
 
-    'depends': ['base', 'brgm_tmplt'],
+    'depends': ['base', 'sale'],
 
     # always loaded
     'data': [
