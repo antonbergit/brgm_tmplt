@@ -13,7 +13,7 @@
     'auto_install': False,
     'application': False,
 
-    'depends': ['base'],
+    'depends': ['base', 'brgm_tmplt'],
 
     # always loaded
     'data': [
